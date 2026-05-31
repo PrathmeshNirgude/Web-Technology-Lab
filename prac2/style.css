@@ -4,3 +4,11 @@
     box-sizing: border-box;
     font-family: Arial, sans-serif;
 }
+/* Navbar */
+nav {
+    display: flex;
+    justify-content: space-between;
+    padding: 15px 50px;
+    background: #222;
+    color: white;
+}
